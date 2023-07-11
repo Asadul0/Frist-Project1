@@ -1,0 +1,109 @@
+*{
+        margin: 0;
+        padding: 0;
+
+}
+.frist-banner{
+        background-color: gray;
+        display: flex;
+        justify-content: space-between;
+        height: 850px;
+        width: 100%;
+        text-align: center;
+}
+.text-1{
+        text-align: center;
+        margin-top: 50px;
+        left: o;
+}
+.frist-text{
+  margin-top: 306px;
+  margin-left: 247px;
+  width: 700px;
+  height: 500px;
+  
+}
+/* second */
+.text-banner{
+        
+        text-align: center;
+}
+.box{
+        width: 1140px;
+        height: 605px;
+        padding: 15px;
+        background-color: antiquewhite;
+        justify-content: space-between;
+}
+.icon{
+       width: 464px;
+       height: 605px;
+}
+.box{
+        padding: 6px;
+}
+.second-banner{
+        display: flex;
+        
+        justify-content: space-evenly;
+}
+.box1{
+        background-color: rgb(191, 191, 224);
+        border-radius: 100% 100% 0% 0% ;
+        text-align: center;
+}
+.box2{
+        background-color: rgb(238, 193, 232);
+        border-radius: 100% 100% 0% 0% ;
+        text-align: center;
+}
+.box3{
+        
+        background-color: rgb(204, 238, 184);
+        border-radius: 100% 100% 0% 0% ;
+        text-align: center;
+}
+
+/* third-banner */
+.third-banner{
+        background-color: gray;
+        display: flex;
+        justify-content: space-between;
+        height: 850px;
+        width: 100%;
+        text-align: center;
+}
+.third-text{
+        margin-top: 506px;
+        margin-left: 347px;
+        width: 594px;       
+        height: 228px;
+      }
+  .img-3{
+        height: 420px;
+        width: 318px;
+        margin-right: 24%;
+        
+
+  }    
+  .btn-3{
+        color: white;
+        background-color: red;
+        border-radius: 4px ;
+        gap: 7px;
+        font-size: 20px;
+  }
+  .third-span{
+        color: rgb(212, 56, 56);
+  }
+  /* fourth-banner */
+  .fourth-banner{
+        text-align: center;
+        height: 100%;
+       
+  }
+  .fourth-text{
+        width: 594px;
+        height: 132px;
+        margin-bottom: 10%;
+  }
